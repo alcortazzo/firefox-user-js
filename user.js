@@ -156,9 +156,9 @@ user_pref("browser.discovery.enabled", false);
 user_pref("browser.newtabpage.activity-stream.asrouter.userprefs.cfr.addons", false);
 user_pref("browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features", false);
 user_pref("browser.preferences.moreFromMozilla", false);
-// user_pref("browser.aboutConfig.showWarning", false);
+user_pref("browser.aboutConfig.showWarning", false);
 // user_pref("browser.startup.homepage_override.mstone", "ignore");
-// user_pref("browser.aboutwelcome.enabled", false);
+user_pref("browser.aboutwelcome.enabled", false);
 user_pref("browser.profiles.enabled", true);
 
 /** THEME ADJUSTMENTS ***/
@@ -230,3 +230,5 @@ user_pref("browser.ctrlTab.sortByRecentlyUsed", true);
 // user_pref("layers.gpu-process.enabled", true);
 user_pref("privacy.trackingprotection.allow_list.baseline.enabled", true);
 user_pref("privacy.trackingprotection.allow_list.convenience.enabled", false);
+user_pref("signon.rememberSignons", false);
+user_pref("network.trr.mode", 3);
