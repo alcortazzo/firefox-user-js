@@ -10,7 +10,8 @@ user_pref("browser.privateWindowSeparation.enabled", false); // WINDOWS
 user_pref("sidebar.revamp.round-content-area", true);
 user_pref("sidebar.expandOnHover", true);
 user_pref("sidebar.animation.duration-ms", 100);
-user_pref("sidebar.animation.expand-on-hover.duration-ms", 100);
+user_pref("sidebar.animation.expand-on-hover.delay-duration-ms", 0);
+user_pref("sidebar.animation.expand-on-hover.duration-ms", 150);
 user_pref("browser.menu.showViewImageInfo", true);
 user_pref("findbar.highlightAll", true);
 user_pref("browser.ctrlTab.sortByRecentlyUsed", true);
