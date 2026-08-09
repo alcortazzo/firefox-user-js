@@ -23,7 +23,7 @@ user_pref("browser.ctrlTab.sortByRecentlyUsed", true);
 user_pref("browser.tabs.groups.enabled", true);
 user_pref("browser.tabs.groups.smart.enabled", false);
 user_pref("browser.profiles.enabled", true);
-user_pref("browser.tabs.insertAfterCurrent", true);
+#user_pref("browser.tabs.insertAfterCurrent", true);
 user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
 
 
