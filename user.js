@@ -77,7 +77,7 @@ user_pref("signon.rememberSignons", false);
 
 
 /*** [NETWORK & DNS] ***/
-user_pref("network.trr.mode", 3);
+user_pref("network.trr.mode", 2);
 
 
 /*** [AI & MACHINE LEARNING] ***/
