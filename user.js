@@ -15,8 +15,7 @@ user_pref("sidebar.animation.expand-on-hover.duration-ms", 150);
 user_pref("browser.menu.showViewImageInfo", true);
 user_pref("findbar.highlightAll", true);
 user_pref("browser.ctrlTab.sortByRecentlyUsed", true);
-
-// user_pref("widget.windows.mica", true);
+user_pref("browser.startup.homepage", "about:home");
 
 
 /*** [TABS & GROUPS] ***/
@@ -105,8 +104,3 @@ user_pref("browser.discovery.enabled", false);
 user_pref("browser.newtabpage.activity-stream.asrouter.userprefs.cfr.addons", false);
 user_pref("browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features", false);
 user_pref("browser.preferences.moreFromMozilla", false);
-
-
-/*** [PERFORMANCE & RENDERING] ***/
-// user_pref("gfx.webrender.layer-compositor", true);
-// user_pref("layers.gpu-process.enabled", true);
