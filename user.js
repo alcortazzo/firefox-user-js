@@ -22,8 +22,6 @@ user_pref("browser.startup.homepage", "about:home");
 user_pref("browser.tabs.groups.enabled", true);
 user_pref("browser.tabs.groups.smart.enabled", false);
 user_pref("browser.profiles.enabled", true);
-#user_pref("browser.tabs.insertAfterCurrent", true);
-user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
 
 
 /*** [FULL-SCREEN] ***/
@@ -39,6 +37,7 @@ user_pref("browser.newtabpage.activity-stream.feeds.section.topstories", false);
 user_pref("browser.newtabpage.activity-stream.showSponsored", false);
 user_pref("browser.newtabpage.activity-stream.showSponsoredCheckboxes", false);
 user_pref("browser.newtabpage.activity-stream.widgets.enabled", false);
+user_pref("browser.newtabpage.activity-stream.feeds.topsites", false);
 
 
 /*** [ADDRESS BAR & SEARCH] ***/
